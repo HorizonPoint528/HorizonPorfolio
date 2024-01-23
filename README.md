@@ -1,2 +1,2 @@
-Based off freeCodeCamp.org tutorial https://www.youtube.com/watch?v=bmpI252DmiI, serves as practice and get a foothold in establishing a professional portfolio for resumes and jobs
+Based off https://buttercms.com/blog/build-a-portfolio-website-with-react/, serves as practice and get a foothold in establishing a professional portfolio for resumes and jobs
 Hopefully, can expand to hobbies such as coding projects and pixel art
